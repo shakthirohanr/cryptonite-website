@@ -185,19 +185,21 @@ const boardMembers = [
 ];
 
 const boardMembers3rdYear = [
-    { name: "Aditya Ram",            alias: "{snapskillz}",     avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Adwait Gupta",          alias: "{pookiemon}",      avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Dhruva Deepak",         alias: "{kua_23}",         avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Guru Asrith Nakka",     alias: "{masterraider}",   avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Kaaviya Kalyanakumar",  alias: "{enigmatronix13}", avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Meeti Mehta",           alias: "{mm}",             avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Noorain Eqbal",         alias: "{arikazo}",        avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Misha Jain",            alias: "{notamilkshake}",  avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Poorvi Kanodia",        alias: "{Lun4n1v3rs3}",    avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Shantanu Bhargava",     alias: "{hackerone}",      avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Shreyith Gomes",        alias: "{shrey_07}",       avatar: "", linkedin: "", github: "", instagram: "", },
-    { name: "Uttam Singh Somvanshi", alias: "{azure}",          avatar: "", linkedin: "", github: "", instagram: "", },
+    { name: "Aditya Ram",            alias: "{snapskillz}",     avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Adwait Gupta",          alias: "{pookiemon}",      avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Dhruva Deepak",         alias: "{kua_23}",         avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Guru Asrith Nakka",     alias: "{masterraider}",   avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Kaaviya Kalyanakumar",  alias: "{enigmatronix13}", avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Meeti Mehta",           alias: "{mm}",             avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Misha Jain",            alias: "{notamilkshake}",  avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Noorain Eqbal",         alias: "{arikazo}",        avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Poorvi Kanodia",        alias: "{Lun4n1v3rs3}",    avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Shantanu Bhargava",     alias: "{hackerone}",      avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Shreyith Gomes",        alias: "{shrey_07}",       avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Uttam Singh Somvanshi", alias: "{azure}",          avatar: "", linkedin: "", github: "", instagram: "" },
+    { name: "Varun Naik",            alias: "{kainn23}",        avatar: "", linkedin: "", github: "", instagram: "" }
 ];
+
 
 const subsystemsGrid = document.getElementById('subsystems-grid');
 
