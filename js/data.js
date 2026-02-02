@@ -535,7 +535,7 @@ const alumniData = [
 
     { name: "Kunyalik Garg",            batch: "2024", current: "Palo Alto Networks",         position: "team leader",              linkedin: "https://www.linkedin.com/in/kunyalik/" },
     { name: "Luhit Atluri",             batch: "2024", current: "ABB",                        position: "cryptography head",        linkedin: "https://www.linkedin.com/in/luhit/" },
-    { name: "Rayhan Faizel",            batch: "2024", current: "GSoC @ libvirt",             position: "binary exploitation head", linkedin: "https://www.linkedin.com/in/rayhan-f-2933281b3/" },
+    { name: "Rayhan Faizel",            batch: "2024", current: "MS @ UPenn",             position: "binary exploitation head", linkedin: "https://www.linkedin.com/in/rayhan-f-2933281b3/" },
     { name: "Rohan Vinod Pol",          batch: "2024", current: "Google",                     position: "-",                        linkedin: "https://www.linkedin.com/in/rohan2182/" },
 
     { name: "Aditi Kulkarni",           batch: "2025", current: "PayU",                       position: "research head",            linkedin: "https://www.linkedin.com/in/aditi-kulkarni-393568229/" },
